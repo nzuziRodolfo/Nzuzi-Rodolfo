@@ -1,20 +1,29 @@
-# I'm Nzuzi Rodolfo !
+<h1 align="center">👋 Olá, eu sou {I'm Nzuzi Rodolfo}</h1>
 
- 
-:computer: I'm a teacher and software Developer!
+<p align="center">
+  💻 Professor - Teacher| 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-:house_with_garden: I’m from Angola.
 
-:books: I’m currently learning everything.
-<div align="center">
-  <a href="https://github.com/nzuziRodolfo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzuziRodolfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</div>
-## About me
-<br>
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
-![image](https://github.com/user-attachments/assets/51377e79-2fd6-48ec-98e1-ce13bbdd720e) https://www.linkedin.com/in/nzuzi-rodolfo-manuel
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{nzuzirodolfo9@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{nzuzirodolfo9@gmail.com})](mailto:{nzuzirodolfo9@gmail.com})
+[![Linkedin: Ellen](https://img.shields.io/badge/-NzuziRodolfo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/nzuzi-rodolfo-manuel/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=nzuziRodolfo&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+
+
+   
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning*  **with my daily life ** **enjoy my profile** 💪.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
